@@ -1,0 +1,89 @@
+header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #186384;
+    color: #fff;
+    text-align: center;
+}
+
+.intro-text .name {
+    font-size: 4.75em;
+    display: block;
+    text-transform: uppercase;
+    font-family: 'VisbyRoundCF-Bold','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+
+.intro-text .describe {
+    font-size: 1.75em;
+    font-weight: 300;
+}
+
+.btn-outline {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #fff;
+    transform: all .3s ease-in-out;
+}
+
+section.install {
+    padding: 50px 0;
+    text-align: center;
+    background-color: #884992;
+    color: #fff;
+}
+
+pre code {
+    margin-top: 10px;
+    text-align: left;
+    font-size: 18px;
+    font-family: code-saver, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+section.style {
+    padding: 50px 0;
+    text-align: center;
+    color: #fff;
+    /* background-color:#D4CAEB; */
+    background-color: #0F2F53;
+}
+
+section.demo {
+    padding: 50px 0;
+    text-align: center;
+    color: #000;
+    /* background-color:#D4CAEB; */
+    background-color: #FFFFFF;
+}
+
+section.demo .row {
+    padding-top: 20px;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-size: 1rem;
+    text-align: center;
+}
+
+footer .no-list-style {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.display-inline {
+    display: inline;
+}
+
+/* color */
+.bg-light-grey {
+    background-color: #ebebeb;
+}
+.text-darker {
+    color: #405263;
+}
